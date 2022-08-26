@@ -1,4 +1,4 @@
-layout: speakers
+layout: default
 title: "Main Speakers"
 permalink: /speakers/
 

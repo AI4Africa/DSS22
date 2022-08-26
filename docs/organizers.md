@@ -1,4 +1,4 @@
-layout: organizers
+layout: default
 title: "Organizers"
 permalink: /organization/
 
