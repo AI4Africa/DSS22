@@ -7,4 +7,4 @@ Nota: This schedule is local time, GMT +1.
     - Intro to ACE-SMIA (**Jules D.**)
     - Data Science and Data Science School jointly with fourth  BI & SemWeb Program (**Ghislain A.**)
   - 10h:00-10:15 *Break*
-  - 
+

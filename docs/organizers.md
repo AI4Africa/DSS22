@@ -1,6 +1,4 @@
-layout: default
-title: "Organizers"
-permalink: /organization/
+## Program Committee
 
 - Carlos Ogouyandjou (Bénin) 
 - Joël Tossa (Bénin) 
@@ -11,3 +9,4 @@ permalink: /organization/
 - Ghislain Atemezing (France) 
 - Sadouanouan Malo (Burkina-Faso)
 - Camara Gaoussou (Sénégal)
+
