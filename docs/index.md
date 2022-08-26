@@ -1,4 +1,4 @@
-Third Data Science School 2022 
+Data Science School 2022 
 =============================
 
 ## Objectives
