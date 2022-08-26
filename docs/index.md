@@ -12,29 +12,39 @@ At the end of the school, the participants should be able to :
 - Use knowledge engineering tools
 - Understand semantic web paradigm.
 
+## Participants
+IT professionals, engineers, consultants, students interested in Data Science and Business Intelligence concepts along with their practices.
+
+### Number of expected participants 
+We estimate about 60 people to attend the school. This number includes the teachers and taking into account the distribution of men and women. Thus, expected  participants can be distributed as follows: 
+- Senegal: 15 
+- Burkina Faso: 10 
+- Niger: 5 
+- Benin: 30
+
 
 ## Addressed Topics
 
-- Introduction to Data Science (Architecture and paradigms)
-- Cloud-based deployment (Google Cloud Platform)
-- Data Engineering with NoSQL and data models (graph and column-oriented)
-- Data Processing with Spark and Hadoop
-- Deep learning processes parallelization and cluster mapping with TensorFlow
-- Data Visualization
-- Methodologies for presenting results
-- Semantic Web 
-- IoT and data stream
-- Constraint programming
-- Big data mining 
-- Knowledge engineering
-- Knowledge graphs and applications 
-- Linked Data 
-- NLP and AI applications
-- Personal data in data science 
-- Operational Research and AI 
-- Law or ethics in data science exploitation
-- Big data and bank loans
-- Case Studies: Applications on e-health Information Systems
+1. Introduction to Data Science (Architecture and paradigms)
+2. Cloud-based deployment (Google Cloud Platform)
+3. Data Engineering with NoSQL and data models (graph and column-oriented)
+4. Data Processing with Spark and Hadoop
+5. Deep learning processes parallelization and cluster mapping with TensorFlow
+6. Data Visualization
+7. Methodologies for presenting results
+8. Semantic Web 
+9. IoT and data stream
+10. Constraint programming
+11. Big data mining 
+12. Knowledge engineering
+13. Knowledge graphs and applications 
+14. Linked Data 
+15. NLP and AI applications
+16. Personal data in data science 
+17. Operational Research and AI 
+18. Law or ethics in data science exploitation
+19. Big data and bank loans
+20. Case Studies: Applications on e-health Information Systems
 
 
 ## Organizers
