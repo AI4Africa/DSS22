@@ -56,7 +56,8 @@ We estimate about 60 people to attend the school. This number includes the teach
 
 ## Venue
 
-This event will be held in Dangbo, Bénin.
+This event will be held at the [Institut de Mathématiques et de Sciences Physiques (IMSP)](http://www.imsp-benin.com/home/) Dangbo, Bénin.
+![IMSP image](img/IMSP-image.jpeg)
 
 The details for the remote participation will be shared here in due time.
 
@@ -73,8 +74,12 @@ The list of the speakers is available [here](speakers.md)
 
 TBC
 
+## Partners
+
+List of university partners [here](partners.md)
+
+
 ## Sponsors
-- CEA-SMIA
-- IMSP
-- MONDECA
+- [CEA-SMIA](https://ceasma-benin.org/)
+- [MONDECA](https://mondeca.com/)
 
