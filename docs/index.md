@@ -48,11 +48,16 @@ We estimate about 60 people to attend the school. This number includes the teach
 
 
 ## Organizers
-
+- Jules Degila (Bénin)
 - Ghislain Atemezing (France)
 - Ratheil Houndji (Bénin)
 - Pélagie Houngue (Bénin)
-- Jules Degila (Bénin)
+- Carlos Ogouyandjou (Bénin) 
+- Joël Tossa (Bénin) 
+- Hénoc Soude (Bénin) 
+- Arnaud Ahouandjinou (Bénin) 
+- Sadouanouan Malo (Burkina-Faso)
+- Camara Gaoussou (Sénégal) 
 
 ## Venue
 
