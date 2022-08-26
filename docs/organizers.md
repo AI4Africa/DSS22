@@ -8,5 +8,6 @@
 - Ratheil Houndji (Bénin) 
 - Ghislain Atemezing (France) 
 - Sadouanouan Malo (Burkina-Faso)
-- Camara Gaoussou (Sénégal)
+- Camara Gaoussou (Sénégal) 
+
 
