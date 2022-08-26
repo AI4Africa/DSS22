@@ -62,8 +62,12 @@ The details for the remote participation will be shared here in due time.
 
 ## Program
 
-TBC
+Check the program details [here](program.md)
 
+
+## Speakers
+
+The list of the speakers is available [here](speakers.md)
 
 ## Registration
 
