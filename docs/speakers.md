@@ -8,4 +8,5 @@
 5. Kevin Degila, OpenClassroom
 6. Catherine Roussey, INRAE, France
 7. Gayo Diallo, Univ. Bordeaux, France 
-8. Mihaela JUGANARU-Mathieu, EMSE, France 
+8. Mihaela JUGANARU-Mathieu, EMSE, France
+9. Axel-Cyrille Ngonga, Univ. Paderborn, Germany
