@@ -77,7 +77,7 @@ The list of the speakers is available [here](speakers.md)
 
 ## Registration
 
-[Link to register] (https://ai4africa.github.io/DSS22/). Deadline: ** September, 16th, 2022 **
+[Link to register](https://ai4africa.github.io/DSS22/). Deadline: ** September, 16th, 2022 **
 
 ## Partners
 
