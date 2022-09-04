@@ -21,5 +21,5 @@ Nota: This schedule is local time, GMT +1.
   - TBC
 - **Friday, 07 October 2022**
   - TBC
--  **Saturday, 07 October 2022**
+-  **Saturday, 08 October 2022**
    -  TBC
