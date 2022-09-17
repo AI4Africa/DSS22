@@ -18,10 +18,10 @@ Nota: This schedule is local time, GMT +1.
 - **Tuesday, 04 October 2022**
   - 08:00-10:00 
     - Emotion AI in Mental Health 
-       **Dr. Atoundem Kana Michel**
+       **Atoudem Kana Michel**
   - 10:00-12:00 
     -  Digital Health in the Global South: challenges, opportunities and implementation
-       **Dr. Gayo Diallo**
+       **Gayo Diallo**
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
     - Emergency Data for Patient Centric Data Analytics to support Personalized Medicine
@@ -55,7 +55,7 @@ Nota: This schedule is local time, GMT +1.
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
     - Data Visualization
-     **Dr. Mihaela**
+     **Mihaela J.**
   - 16:00-18:00 
     - Transferable Belief Model-based Machine Learning for activities and patients monitoring in Intensive care of cardiology. 
       **Arnaud Ahouandjinou**
