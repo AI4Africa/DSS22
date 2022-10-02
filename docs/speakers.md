@@ -15,4 +15,4 @@
 12. [Jules Degila](https://orcid.org/0000-0003-4688-9178), IMSP, Benin
 
 ---
-You can also find the list of the speakers with their [bio](../resource/speakers.pdf).
+You can also find the list of the speakers with their [bio](resource/speakers.pdf).
