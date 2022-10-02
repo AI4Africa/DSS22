@@ -68,7 +68,7 @@ Nota: This schedule is local time, GMT +1.
       **Catherine R.**
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
-    - Intro to Data Science and Data Analytics for stratégic decisions **Mbaye Babacar Gueye**
+    - Intro to Data Science and Data Analytics for stratégic decisions **Mbaye Babacar Gueye** ( [bio & abstract](mbaye.md) )
   - 16:00-18:00 
     - Practical session Web annotation (Plant Health Bulletin)
      **Catherine R., Ghislain A.**
@@ -76,7 +76,7 @@ Nota: This schedule is local time, GMT +1.
    - 08:00-10:00 
     - AI4CARDIO Students presentation
   - 10:00-12:00 
-    - "Presentation of ACE-SMIA HPC Infrastructure / Partnership / Closing Session (**Jules D., Ghislain A.**) 
+    - Presentation of ACE-SMIA HPC Infrastructure / Partnership / Closing Session (**Jules D., Ghislain A.**) 
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
     - Social Event 
