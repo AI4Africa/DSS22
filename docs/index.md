@@ -1,6 +1,7 @@
 Data Science School 2022 
 =============================
 
+![Banner DSS 2022 ](img/dss-banner.png)
 ## Objectives
 The industry interest and adoption of data science continues to grow as it leverages big data to achieve higher levels of business value. During this third edition of Data Science School combined with the fourth edition of Business Intelligence & Semantic Web seminar, participants will learn and put in practice solutions around recent data science concepts, tools, and techniques for data collection, ingestion, transformation, and consolidation.
 
