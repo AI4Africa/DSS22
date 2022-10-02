@@ -8,17 +8,17 @@ Before joining Microsoft, he worked at the biggest Data and AI companies in Cana
 
 ## Presentation outline
 1. Intro to Data Science
- - a. Definition of Data Science
- - b. Basics in Data Science
+   -  a. Definition of Data Science
+   -  b. Basics in Data Science
 2. Basics in ML
- - a. Intro to AI
- - b. ML concepts
- - c. Data classification and Data clustering
+   - a. Intro to AI
+   - b. ML concepts
+   - c. Data classification and Data clustering
 3. From ML to AI
- - a. Introduction to Deep Learning
- - b. Scale AI with MLOps
-4. Advanced Analytics for Strategic Decision Making
- - a. Intro to Big Data
- - b. Data and AI in the Cloud
- - c. The notion of Advanced Analytics
- - d. Strategic Decision-Making guided by Data
+   - a. Introduction to Deep Learning
+   - b. Scale AI with MLOps
+3. Advanced Analytics for Strategic Decision Making
+   - a. Intro to Big Data
+   - b. Data and AI in the Cloud
+   - c. The notion of Advanced Analytics
+   - d. Strategic Decision-Making guided by Data
