@@ -7,21 +7,21 @@ Nota: This schedule is local time, GMT +1.
     - Intro to ACE-SMIA (**Jules D.**)
     - Data Science and Data Science School jointly with fourth  BI & SemWeb Program (**Ghislain A.**)
   - 10:00-12:00 
-    - Intro to Data Science and Data Analytics for strategic decisions **Mbaye Babacar Gueye** [bio & abstract](mbaye.md)
+    - Intro to Data Science and Data Analytics for strategic decisions **Mbaye Babacar Gueye** ( [bio & abstract](mbaye.md) )
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
-    - Intro to Data Science and Data Analytics for strategic decisions **Mbaye Babacar Gueye** [bio & abstract](mbaye.md)
+    - Intro to Data Science and Data Analytics for strategic decisions **Mbaye Babacar Gueye**  ( [bio & abstract](mbaye.md) )
   - 16:00-18:00 ML and Robotic Surgery
     - Machine Learning for Remote Tactile Internet Robotic Surgery
-        **Roch GLITHO**
+        **Roch GLITHO** ([bio & abstract](glitoh.md) )
 
 - **Tuesday, 04 October 2022**
   - 08:00-10:00 
     - Emotion AI in Mental Health 
-       **Atoudem Kana Michel**
+       **Atoudem Kana Michel** ([bio & abstract](kana.md) )
   - 10:00-12:00 
     -  Digital Health in the Global South: challenges, opportunities and implementation
-       **Gayo Diallo**
+       **Gayo Diallo** ([bio & abstract](gayo.md) )
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
     - Emergency Data for Patient Centric Data Analytics to support Personalized Medicine
@@ -44,23 +44,23 @@ Nota: This schedule is local time, GMT +1.
      **Serge Nyawa**
   - 16:00-18:00 Hands-On Session
     - Machine Learning for Remote Tactile Internet Robotic Surgery
-        **Roch GLITHO**
+        **Roch GLITHO** ([bio & abstract](glitoh.md) )
 - **Thursday, 06 October 2022**
- - 08:00-10:00 Official Opening Ceremony
+ - 08:00-10:00 
     - Usage du data science  pour l'aide au diagnostic en santé
        **Mouhamadou Lamine Ba**
   - 10:00-12:00 
     - NoSQL applications with MongoDB
-      **Mihaela J.**
+      **Mihaela J.** ([bio & abstract](mihaela.md) )
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
     - Data Visualization
-     **Mihaela J.**
+     **Mihaela J.** ([bio & abstract](mihaela.md) )
   - 16:00-18:00 
     - Transferable Belief Model-based Machine Learning for activities and patients monitoring in Intensive care of cardiology. 
       **Arnaud Ahouandjinou**
 - **Friday, 07 October 2022**
- - 08:00-10:00 Official Opening Ceremony
+ - 08:00-10:00 
     - Keynote: ML algorithms on Knowledge Graphs & Applications
      **Axel-Cyrille N.**
   - 10:00-12:00 
