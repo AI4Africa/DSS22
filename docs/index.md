@@ -78,7 +78,7 @@ The list of the speakers is available [here](speakers.md)
 
 ## Registration
 
-[Link to register](https://ee.kobotoolbox.org/single/JZj12MpB). Deadline: ** September, 16th, 2022 **
+~~[Link to register](https://ee.kobotoolbox.org/single/JZj12MpB). Deadline: ** September, 16th, 2022 ** ~~
 
 ## Partners
 
