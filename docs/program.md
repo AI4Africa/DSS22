@@ -2,6 +2,10 @@
 ## Schedule
 Nota: This schedule is local time, GMT +1. 
 
+![Programme overview](img/programme-overview.png)
+
+---
+
 - **Monday, 03 October 2022**
   - 08:00-10:00 Official Opening Ceremony
     - Intro to ACE-SMIA (**Jules D.**)
@@ -62,16 +66,16 @@ Nota: This schedule is local time, GMT +1.
 - **Friday, 07 October 2022**
  - 08:00-10:00 
     - Keynote: ML algorithms on Knowledge Graphs & Applications
-     **Axel-Cyrille N.**
+     **Axel-Cyrille N.** ([bio & abstract](ngonga.md) )
   - 10:00-12:00 
     - Web Annotation Ontology for Knowledge Engineering
-      **Catherine R.**
+      **Catherine R.** ([bio & abstract](roussey.md) )
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
     - Intro to Data Science and Data Analytics for stratégic decisions **Mbaye Babacar Gueye** ( [bio & abstract](mbaye.md) )
   - 16:00-18:00 
     - Practical session Web annotation (Plant Health Bulletin)
-     **Catherine R., Ghislain A.**
+     **Catherine R., Ghislain A.** ([bio & abstract](roussey.md) )
 -  **Saturday, 08 October 2022**
    - 08:00-10:00 
     - AI4CARDIO Students presentation
@@ -79,4 +83,4 @@ Nota: This schedule is local time, GMT +1.
     - Presentation of ACE-SMIA HPC Infrastructure / Partnership / Closing Session (**Jules D., Ghislain A.**) 
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
-    - Social Event 
+    - Social Event (What do you want to visit? Please, some suggestions.)
