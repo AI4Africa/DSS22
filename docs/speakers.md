@@ -9,7 +9,7 @@
 6. [Gayo Diallo](https://www.gayodiallo.org/), Univ. Bordeaux, France 
 7. [Mihaela JUGANARU-Mathieu](https://dblp.org/pid/118/3537.html), EMSE, France
 8. [Axel-Cyrille Ngonga](https://dice-research.org/AxelCyrilleNgongaNgomo), Univ. Paderborn, Germany
-9.  Michel Atoudem, Prague
-10. Arnaud Ahouandjinou, IMSP, Benin
+9.  [Michel Atoudem](https://michel-kana.medium.com/), Founder @Immersively.care, Prague
+10. [Arnaud Ahouandjinou](https://scholar.google.fr/citations?user=13DHnfkAAAAJ&hl=fr), IMSP, Benin
 11. [Ghislain Atemezing](http://atemezing.org/), Mondeca, France
 12. [Jules Degila](https://orcid.org/0000-0003-4688-9178), IMSP, Benin
