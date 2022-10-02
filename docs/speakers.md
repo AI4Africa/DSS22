@@ -13,3 +13,6 @@
 10. [Arnaud Ahouandjinou](https://scholar.google.fr/citations?user=13DHnfkAAAAJ&hl=fr), IMSP, Benin
 11. [Ghislain Atemezing](http://atemezing.org/), Mondeca, France
 12. [Jules Degila](https://orcid.org/0000-0003-4688-9178), IMSP, Benin
+
+---
+You can also find the list of the speakers with their [bio](../resource/speakers.pdf).
