@@ -7,11 +7,11 @@ Nota: This schedule is local time, GMT +1.
     - Intro to ACE-SMIA (**Jules D.**)
     - Data Science and Data Science School jointly with fourth  BI & SemWeb Program (**Ghislain A.**)
   - 10:00-12:00 
-    - Intro to Data Science and Data Analytics for stratégic decisions **Mbaye Babacar Gueye**
+    - Intro to Data Science and Data Analytics for strategic decisions **Mbaye Babacar Gueye** [bio & abstract](mbaye.md)
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
-    - Intro to Data Science and Data Analytics for stratégic decisions **Mbaye Babacar Gueye**
-  - 16:00-18:00 Hands-On Session
+    - Intro to Data Science and Data Analytics for strategic decisions **Mbaye Babacar Gueye** [bio & abstract](mbaye.md)
+  - 16:00-18:00 ML and Robotic Surgery
     - Machine Learning for Remote Tactile Internet Robotic Surgery
         **Roch GLITHO**
 
