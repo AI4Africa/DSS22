@@ -84,6 +84,10 @@ The list of the speakers is available [here](speakers.md)
 
 List of university partners [here](partners.md)
 
+## Resources/Datasets/Scripts
+
+Follow the link to the [sandbox](sandbox.md)
+
 
 ## Sponsors
 - [CEA-SMIA](https://ceasma-benin.org/)
