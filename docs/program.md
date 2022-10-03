@@ -29,10 +29,10 @@ Nota: This schedule is local time, GMT +1.
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
     - Emergency Data for Patient Centric Data Analytics to support Personalized Medicine
-       **Thierry EDOH** 
+       **Thierry EDOH** ([bio & abstract](edoh.md) )
   - 16:00-18:00 
     - Multidimensional Smart Home Automation Systems to Support Home Care 
-       **Thierry EDOH**
+       **Thierry EDOH**  ([bio & abstract](edoh.md) )
       
   
 - **Wednesday, 05 October 2022**
