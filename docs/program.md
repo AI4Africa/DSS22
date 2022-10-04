@@ -21,10 +21,10 @@ Nota: This schedule is local time, GMT +1.
 
 - **Tuesday, 04 October 2022**
   - 08:00-10:00 
-    - [Emotion AI in Mental Health](resource/slide_Immersively.care.pdf))
+    - [Emotion AI in Mental Health](resource/slide_Immersively.care.pdf)
        **Atoudem Kana Michel** ([bio & abstract](kana.md) ) 
   - 10:00-12:00 
-    -  Digital Health in the Global South: challenges, opportunities and implementation
+    -  [Digital Health in the Global South: challenges, opportunities and implementation](resource/Digital_Health_Global_South.pdf)
        **Gayo Diallo** ([bio & abstract](gayo.md) )
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
