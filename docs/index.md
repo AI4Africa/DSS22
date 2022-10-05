@@ -95,8 +95,7 @@ Follow the link to the [sandbox](sandbox.md)
 - [MONDECA](https://mondeca.com/)
 
 ## Logos
-| Name      | Logo |
-| ----------- | ----------- |
-| IMSP      | ![IMSP](img/IMSP-image.jpeg) |
+
+| IMSP      | ![IMSP](img/logoimsp) |
 | SMIA      | ![IMSP](img/logo_ceasma_fr.png)|
 
