@@ -18,11 +18,12 @@ IT professionals, engineers, consultants, students interested in Data Science an
 
 ### Number of expected participants 
 We estimate about 60 people to attend the school. This number includes the teachers and taking into account the distribution of men and women. Thus, expected  participants can be distributed as follows: 
-- Senegal: 15 
-- Burkina Faso: 10 
-- Niger: 5 
-- Benin: 30
+- Senegal: 10 
+- Burkina Faso: 4  
+- Nigeria: 15
+- Benin: 20
 
+We also receive medical practionners (10) to create collaborations in eHealth domain in Africa.
 
 ## Addressed Topics
 
@@ -92,4 +93,10 @@ Follow the link to the [sandbox](sandbox.md)
 ## Sponsors
 - [CEA-SMIA](https://ceasma-benin.org/)
 - [MONDECA](https://mondeca.com/)
+
+## Logos
+| Name      | Logo |
+| ----------- | ----------- |
+| IMSP      | ![IMSP](img/IMSP-image.jpeg) |
+| SMIA      | ![IMSP](img/logo_ceasma_fr.png)|
 
