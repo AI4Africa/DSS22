@@ -16,7 +16,7 @@ Nota: This schedule is local time, GMT +1.
   - 14:00-16:00 
     - [Intro to Data Science and Data Analytics for strategic decisions](resource/intro_ml_datascience.pdf)(Part II) **Mbaye Babacar Gueye**  ( [bio & abstract](mbaye.md) )
   - 16:00-18:00 ML and Robotic Surgery
-    - Machine Learning for Remote Tactile Internet Robotic Surgery
+    - [Machine Learning for Remote Tactile Internet Robotic Surgery](resource/DataSchool-IMSP-2022.pdf)
         **Roch GLITHO** ([bio & abstract](glitoh.md) )
 
 - **Tuesday, 04 October 2022**
