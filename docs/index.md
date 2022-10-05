@@ -96,6 +96,6 @@ Follow the link to the [sandbox](sandbox.md)
 
 ## Logos
 
-| IMSP      | ![IMSP](img/logoimsp.png) |
-| SMIA      | ![IMSP](img/logo_ceasma_fr.png)|
+![IMSP](img/logoimsp.png)
+![IMSP](img/logo_ceasma_fr.png)
 
