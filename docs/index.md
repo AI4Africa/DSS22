@@ -23,7 +23,7 @@ We estimate about 60 people to attend the school. This number includes the teach
 - Nigeria: 15
 - Benin: 20
 
-We also receive medical practionners (10) to create collaborations in eHealth domain in Africa.
+We also receive medical practionners (10) to create collaborations in eHealth domain in Africa. This year, the event is labelised by the [French AI Asosciation (AFIA)](https://afia.asso.fr/)
 
 ## Addressed Topics
 
@@ -83,7 +83,8 @@ The list of the speakers is available [here](speakers.md)
 
 ## Partners
 
-List of university partners [here](partners.md)
+- List of university partners [here](partners.md)
+- AFIA
 
 ## Resources/Datasets/Scripts
 
@@ -97,5 +98,7 @@ Follow the link to the [sandbox](sandbox.md)
 ## Logos
 
 ![IMSP](img/logoimsp.png)
-![IMSP](img/logo_ceasma_fr.png)
+![CEA-SMIA](img/logo_ceasma_fr.png)
+![AFIA](img/afiaLogo.png)
+
 

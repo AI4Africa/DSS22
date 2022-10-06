@@ -51,7 +51,7 @@ Nota: This schedule is local time, GMT +1.
         **Roch GLITHO** ([bio & abstract](glitoh.md) )
 - **Thursday, 06 October 2022**
  - 08:00-10:00 
-    - Usage du data science  pour l'aide au diagnostic en santé
+    - [Usage du data science  pour l'aide au diagnostic en santé](resource/DataDiagnosis-Health.pdf). A paper [to read](resource/On%20the%20Efficiency%20of%20Machine%20Learning%20Models%20in%20Malaria%20Prediction%20-%20PubMed.pdf)
        **Mouhamadou Lamine Ba**
   - 10:00-12:00 
     - NoSQL applications with MongoDB
