@@ -70,7 +70,7 @@ The details for the remote participation will be shared here in due time.
 
 ## Program
 
-Check the program details [here](program.md)
+[Check the program details](program.md)
 
 
 ## Speakers
@@ -83,12 +83,13 @@ The list of the speakers is available [here](speakers.md)
 
 ## Partners
 
-- List of university partners [here](partners.md)
-- AFIA
+- [List of university partners](partners.md)
+- [AFIA](https://afia.asso.fr/)
 
-## Resources/Datasets/Scripts
+## Resources/
 
-Follow the link to the [sandbox](sandbox.md)
+- Follow the link to the [sandbox](sandbox.md)
+- [Some pictures](https://photos.app.goo.gl/XUroLBuooqNPK2hH9)
 
 
 ## Sponsors
