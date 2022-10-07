@@ -98,7 +98,8 @@ Follow the link to the [sandbox](sandbox.md)
 ## Logos
 
 ![IMSP](img/logoimsp.png)
-![CEA-SMIA](img/logo_ceasma_fr.png)
-![AFIA](img/afiaLogo.png)
+<img src="img/logo_ceasma_fr.png" alt="CEA-SMIA" width="200"/>
+<img src="img/afiaLogo.png" alt="CEA-SMIA" width="200"/>
+
 
 
