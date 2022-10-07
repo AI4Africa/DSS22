@@ -44,7 +44,7 @@ Nota: This schedule is local time, GMT +1.
       **Kevin DEGILA**
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
-    - COVID-19 vaccine hesitancy: a social media analysis using deep learning
+    - [COVID-19 vaccine hesitancy: a social media analysis using deep learning](resource/Vaccine%20hesitancy_published%202022.pdf)
      **Serge Nyawa**
   - 16:00-18:00 Hands-On Session
     - Machine Learning for Remote Tactile Internet Robotic Surgery
