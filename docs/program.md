@@ -46,19 +46,19 @@ Nota: This schedule is local time, GMT +1.
   - 14:00-16:00 
     - [COVID-19 vaccine hesitancy: a social media analysis using deep learning](resource/Vaccine%20hesitancy_published%202022.pdf)
      **Serge Nyawa**
-  - 16:00-18:00 Hands-On Session
-    - Machine Learning for Remote Tactile Internet Robotic Surgery
+  - 16:00-18:00 
+    - [Machine Learning for Remote Tactile Internet Robotic Surgery](resource/DataSchool-IMSP-2022.pdf)
         **Roch GLITHO** ([bio & abstract](glitoh.md) )
 - **Thursday, 06 October 2022**
  - 08:00-10:00 
     - [Usage du data science  pour l'aide au diagnostic en santé](resource/DataDiagnosis-Health.pdf). A paper [to read](resource/On%20the%20Efficiency%20of%20Machine%20Learning%20Models%20in%20Malaria%20Prediction%20-%20PubMed.pdf)
        **Mouhamadou Lamine Ba**
   - 10:00-12:00 
-    - NoSQL applications with MongoDB
+    - [NoSQL applications with MongoDB](resource/nosql.pdf)
       **Mihaela J.** ([bio & abstract](mihaela.md) )
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
-    - Data Visualization
+    - [Data Visualization](resource/visualisation_ecole_ete_Benin.pdf)
      **Mihaela J.** ([bio & abstract](mihaela.md) )
   - 16:00-18:00 
     - Transferable Belief Model-based Machine Learning for activities and patients monitoring in Intensive care of cardiology. 
@@ -68,14 +68,14 @@ Nota: This schedule is local time, GMT +1.
     - Keynote: ML algorithms on Knowledge Graphs & Applications
      **Axel-Cyrille N.** ([bio & abstract](ngonga.md) )
   - 10:00-12:00 
-    - Web Annotation Ontology for Knowledge Engineering
+    - [Web Annotation Ontology for Knowledge Engineering](resource/ingenierie_inrae.pdf)
       **Catherine R.** ([bio & abstract](roussey.md) )
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
-    - Intro to Data Science and Data Analytics for stratégic decisions **Mbaye Babacar Gueye** ( [bio & abstract](mbaye.md) )
+    - Predicting Heart Disease with Multiple Classifiiers **Charly Gnoguem, Jules DEGILA** 
   - 16:00-18:00 
-    - Practical session Web annotation (Plant Health Bulletin)
-     **Catherine R., Ghislain A.** ([bio & abstract](roussey.md) )
+    - [Practical session Web annotation (Plant Health Bulletin)](resource/ingenierie_inrae.pdf)
+     **Catherine R., Stephan, Ghislain A.** ([bio & abstract](roussey.md) )
 -  **Saturday, 08 October 2022**
    - 08:00-10:00 
     - AI4CARDIO Students presentation
@@ -84,3 +84,4 @@ Nota: This schedule is local time, GMT +1.
   - 12:00-14:00 *Lunch*
   - 14:00-16:00 
     - Social Event (What do you want to visit? Please, some suggestions.)
+      - Visit Cotonou, Songhaï
