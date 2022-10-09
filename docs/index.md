@@ -86,7 +86,7 @@ The list of the speakers is available [here](speakers.md)
 - [List of university partners](partners.md)
 - [AFIA](https://afia.asso.fr/)
 
-## Resources/
+## Resources
 
 - Follow the link to the [sandbox](sandbox.md)
 - [Some pictures](https://photos.app.goo.gl/XUroLBuooqNPK2hH9)
