@@ -90,6 +90,8 @@ The list of the speakers is available [here](speakers.md)
 
 - Follow the link to the [sandbox](sandbox.md)
 - [Some pictures](https://photos.app.goo.gl/XUroLBuooqNPK2hH9)
+- [YoutTube coverage](https://youtu.be/zEZ9718TPvk)
+- [Facebook coverage](https://fb.watch/g5kDLpth78/)
 
 
 ## Sponsors
